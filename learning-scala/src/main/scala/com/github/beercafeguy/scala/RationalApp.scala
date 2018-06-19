@@ -16,4 +16,8 @@ object RationalApp extends App {
   //println(gcd(16,24))
   println(new Rational(66,42))
   println(r1 * n2)
+
+  val x=2
+  println(s"Adding Integer: ${x} with Rational: ${r1}")
+  println(r1+x)
 }
