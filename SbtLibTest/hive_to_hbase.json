@@ -1,0 +1,7 @@
+{
+  "hiveTableName":"beercafe.dim_employee",
+  "hBaseTableName":"beercafe:dim_employee",
+  "columnFamilyName":"info",
+  "keyColumn":"employee_code",
+  "scdColumns":"manager_name,manager_email"
+}
